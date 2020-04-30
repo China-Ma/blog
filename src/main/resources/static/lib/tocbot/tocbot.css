@@ -22,10 +22,10 @@
     padding: 4px 0;
     font-weight: 300;
 }
-.toc-list li a:hover{
+
+.toc-list li a:hover {
     color: teal;
 }
-
 
 
 a.toc-link {
